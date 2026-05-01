@@ -25,8 +25,6 @@ I am a UK-based Data Analyst with 1+ year of industry experience at Merck, turni
 **Shows:** dashboard design, user behaviour analysis, segmentation, stakeholder-friendly visualisation  
 **Outcome:** interactive dashboard supporting product and marketing insight around engagement, retention and subscription growth.
 
----
-
 ### 2. Product Analytics SQL Case Study
 
 **Business problem:** How can a product team monitor conversion, retention and experiment performance from behavioural and transactional data?  
@@ -36,8 +34,6 @@ I am a UK-based Data Analyst with 1+ year of industry experience at Merck, turni
 
 **Status:** In progress
 
----
-
 ### 3. [NBA Rookie Retention Prediction](https://github.com/yehyifan/NBA_Rookie_Retention_Prediction)
 
 **Business problem:** How can early performance data support long-term player evaluation and risk assessment?  
@@ -45,16 +41,12 @@ I am a UK-based Data Analyst with 1+ year of industry experience at Merck, turni
 **Shows:** logistic regression, feature selection, model evaluation, precision-recall analysis, threshold tuning  
 **Outcome:** classification model framing prediction as a decision-support tool for prioritisation and risk trade-off analysis.
 
----
-
 ### 4. [Oscar Best Actress Awards Web Scraper](https://github.com/yehyifan/Oscar_Best_Actress_Awards_Web_Scraper)
 
 **Business problem:** How can semi-structured web data be collected and prepared for analysis?  
 **Built with:** Python, BeautifulSoup, requests, pandas  
 **Shows:** web scraping, HTML table extraction, data cleaning, validation, reproducible notebook workflow  
 **Outcome:** cleaned and structured awards dataset ready for downstream analysis.
-
----
 
 ## Current Focus 🧠
 

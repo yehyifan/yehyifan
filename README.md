@@ -69,4 +69,3 @@ Python web scraping project extracting and cleaning Academy Award Best Actress d
 
 **LinkedIn:** [linkedin.com/in/yi-fan-yeh-947100245](https://www.linkedin.com/in/yi-fan-yeh-947100245)  
 **Email:** [evayeh1006@outlook.com](mailto:evayeh1006@outlook.com)  
-**GitHub:** [github.com/yehyifan](https://github.com/yehyifan)

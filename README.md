@@ -11,13 +11,15 @@ I bring a structured, people-oriented and growth-driven approach to analytics: I
 My projects focus on practical business questions: understanding user behaviour, monitoring performance, identifying patterns, and building dashboards or models that support better decisions.
 
 
-## Technical Skills 🔧
+## Technical Skills 🧰
 
-**Languages & Data Analysis:** Python, SQL, pandas, NumPy  
-**Visualisation & BI:** Power BI, Plotly, Dash, Excel  
-**Analytics Methods:** KPI design, segmentation, retention analysis, commercial reporting, A/B testing  
-**Modelling:** regression, classification, feature selection, model evaluation, precision-recall analysis  
-**Workflow:** data cleaning, data validation, exploratory analysis, GitHub, reproducible notebooks
+**Data & Analytics:** SQL (data extraction, joins, aggregation, CTEs), Python (pandas, NumPy), data cleaning, validation, exploratory analysis, KPI definition and performance tracking  
+
+**Visualisation & Reporting:** Power BI, Plotly Dash, Excel, dashboard design, data storytelling and insight communication  
+
+**Business & Stakeholder Skills:** translating business questions into analytical tasks, stakeholder communication, reporting, decision support, process improvement and workflow optimisation  
+
+**Modelling & Evaluation:** regression and classification models, feature selection, AUC, precision-recall analysis and threshold tuning
 
 
 ## Featured Projects 📊

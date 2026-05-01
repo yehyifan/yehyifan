@@ -2,61 +2,59 @@
 
 ### Data Analyst | SQL • Python • Dashboarding • Business Insight
 
-I am a UK-based Data Analyst with 1+ year of industry experience at Merck, turning audit and operational data into dashboards, reports and insights for business decision-making.
+I am a UK-based Data Analyst with 1+ year of industry experience at Merck, turning audit and operational data into dashboards, reports and insights for business decision-making. I recently completed an MSc in Data Science and Analytics, strengthening my skills in SQL, Python, machine learning and analytical problem-solving.
 
-I recently completed an MSc in Data Science and Analytics, strengthening my skills in SQL, Python, machine learning and analytical problem-solving.
-
-I bring a structured, people-oriented and growth-driven approach to analytics: I care about making analysis technically sound, easy to understand and useful for stakeholders.
-
-My projects focus on practical business questions: understanding user behaviour, monitoring performance, identifying patterns, and building dashboards or models that support better decisions.
+- I bring a structured, people-oriented and growth-driven approach to analytics.
+- My projects focus on practical business questions: understanding user behaviour, monitoring performance, identifying patterns, and building dashboards or models that support better decisions.
 
 
 ## Technical Skills 🧰
 
-**Data & Analytics:** SQL (data extraction, joins, aggregation, CTEs), Python (pandas, NumPy), data cleaning, validation, exploratory analysis, KPI definition and performance tracking  
-
-**Visualisation & Reporting:** Power BI, Plotly Dash, Excel, dashboard design, data storytelling and insight communication  
-
-**Business & Stakeholder Skills:** translating business questions into analytical tasks, stakeholder communication, reporting, decision support, process improvement and workflow optimisation  
-
-**Modelling & Evaluation:** regression and classification models, feature selection, AUC, precision-recall analysis and threshold tuning
+- **Data & Analytics:** SQL (data extraction, joins, aggregation, CTEs), Python (pandas, NumPy), data cleaning, validation, exploratory analysis, KPI definition and performance tracking  
+- **Visualisation & Reporting:** Power BI, Plotly Dash, Excel, dashboard design, data storytelling and insight communication  
+- **Business & Stakeholder Skills:** translating business questions into analytical tasks, stakeholder communication, reporting, decision support, process improvement and workflow optimisation  
+- **Modelling & Evaluation:** regression and classification models, feature selection, AUC, precision-recall analysis and threshold tuning
 
 
 ## Featured Projects 📊
 
-### [Spotify User Behaviour Analytics Dashboard](https://github.com/yehyifan/Spotify_User_Behaviour_Analysis_Dashboard)
+### 1. [Spotify User Behaviour Analytics Dashboard](https://github.com/yehyifan/Spotify_User_Behaviour_Analysis_Dashboard)
 
-Interactive dashboard analysing Spotify user behaviour across subscription plans, listening frequency, mood ratings and demographic groups.
+**Business problem:** How can a music streaming platform understand user engagement, subscription behaviour and segment differences?  
+**Built with:** Python, pandas, Plotly Dash  
+**Shows:** dashboard design, user behaviour analysis, segmentation, stakeholder-friendly visualisation  
+**Outcome:** interactive dashboard supporting product and marketing insight around engagement, retention and subscription growth.
 
-**What it shows:** dashboard design, user behaviour analysis, segmentation, Python, Dash, Plotly  
-**Business angle:** helps teams understand engagement patterns and identify opportunities for personalisation, retention and subscription growth.
+---
 
+### 2. Product Analytics SQL Case Study
 
-### Product Analytics SQL Case Study
-
-SQL case study covering conversion funnel analysis, cohort retention, revenue KPIs and A/B test measurement.
-
-**What it shows:** SQL, joins, CTEs, window functions, KPI design, funnel analysis, cohort analysis  
-**Business angle:** demonstrates how behavioural and transactional data can be used to monitor growth, conversion and retention.
+**Business problem:** How can a product team monitor conversion, retention and experiment performance from behavioural and transactional data?  
+**Built with:** SQL, CTEs, window functions, aggregation  
+**Shows:** funnel analysis, cohort retention, KPI design, A/B test measurement  
+**Outcome:** SQL analysis framework for tracking growth, conversion and user retention.  
 
 **Status:** In progress
 
+---
 
-### [NBA Rookie Retention Prediction](https://github.com/yehyifan/NBA_Rookie_Retention_Prediction)
+### 3. [NBA Rookie Retention Prediction](https://github.com/yehyifan/NBA_Rookie_Retention_Prediction)
 
-Classification project predicting whether NBA rookies are likely to remain in the league after five years using early-career performance metrics.
+**Business problem:** How can early performance data support long-term player evaluation and risk assessment?  
+**Built with:** Python, pandas, scikit-learn  
+**Shows:** logistic regression, feature selection, model evaluation, precision-recall analysis, threshold tuning  
+**Outcome:** classification model framing prediction as a decision-support tool for prioritisation and risk trade-off analysis.
 
-**What it shows:** Python, scikit-learn, logistic regression, feature selection, model evaluation, threshold tuning  
-**Business angle:** frames predictive modelling as a decision-support tool for risk assessment and prioritisation.
+---
 
+### 4. [Oscar Best Actress Awards Web Scraper](https://github.com/yehyifan/Oscar_Best_Actress_Awards_Web_Scraper)
 
-### [Oscar Best Actress Awards Web Scraper](https://github.com/yehyifan/Oscar_Best_Actress_Awards_Web_Scraper)
+**Business problem:** How can semi-structured web data be collected and prepared for analysis?  
+**Built with:** Python, BeautifulSoup, requests, pandas  
+**Shows:** web scraping, HTML table extraction, data cleaning, validation, reproducible notebook workflow  
+**Outcome:** cleaned and structured awards dataset ready for downstream analysis.
 
-Python web scraping project extracting and cleaning Academy Award Best Actress data from Wikipedia.
-
-**What it shows:** BeautifulSoup, requests, pandas, web scraping, data cleaning  
-**Business angle:** demonstrates the ability to collect, clean and structure semi-structured web data for analysis.
-
+---
 
 ## Current Focus 🧠
 

@@ -10,7 +10,6 @@ I bring a structured, people-oriented and growth-driven approach to analytics: I
 
 My projects focus on practical business questions: understanding user behaviour, monitoring performance, identifying patterns, and building dashboards or models that support better decisions.
 
----
 
 ## Technical Skills 🔧
 
@@ -20,7 +19,6 @@ My projects focus on practical business questions: understanding user behaviour,
 **Modelling:** regression, classification, feature selection, model evaluation, precision-recall analysis  
 **Workflow:** data cleaning, data validation, exploratory analysis, GitHub, reproducible notebooks
 
----
 
 ## Featured Projects 📊
 
@@ -31,7 +29,6 @@ Interactive dashboard analysing Spotify user behaviour across subscription plans
 **What it shows:** dashboard design, user behaviour analysis, segmentation, Python, Dash, Plotly  
 **Business angle:** helps teams understand engagement patterns and identify opportunities for personalisation, retention and subscription growth.
 
----
 
 ### Product Analytics SQL Case Study
 
@@ -42,7 +39,6 @@ SQL case study covering conversion funnel analysis, cohort retention, revenue KP
 
 **Status:** In progress
 
----
 
 ### [NBA Rookie Retention Prediction](https://github.com/yehyifan/NBA_Rookie_Retention_Prediction)
 
@@ -51,7 +47,6 @@ Classification project predicting whether NBA rookies are likely to remain in th
 **What it shows:** Python, scikit-learn, logistic regression, feature selection, model evaluation, threshold tuning  
 **Business angle:** frames predictive modelling as a decision-support tool for risk assessment and prioritisation.
 
----
 
 ### [Oscar Best Actress Awards Web Scraper](https://github.com/yehyifan/Oscar_Best_Actress_Awards_Web_Scraper)
 
@@ -60,7 +55,6 @@ Python web scraping project extracting and cleaning Academy Award Best Actress d
 **What it shows:** BeautifulSoup, requests, pandas, web scraping, data cleaning  
 **Business angle:** demonstrates the ability to collect, clean and structure semi-structured web data for analysis.
 
----
 
 ## Current Focus 🧠
 
@@ -68,7 +62,6 @@ Python web scraping project extracting and cleaning Academy Award Best Actress d
 - Improving project documentation with clearer business context and recommendations
 - Building projects that connect technical analysis with real business decisions
 
----
 
 ## Contact 📫
 

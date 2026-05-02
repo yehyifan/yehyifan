@@ -7,10 +7,11 @@ I am a **UK-based Data Analyst** with **1+ year of industry experience at Merck*
 
 ## Technical Skills 🧰
 
-- **Data & Analytics:** SQL (data extraction, joins, aggregation, CTEs), Python (pandas, NumPy), data cleaning, validation, exploratory analysis, KPI definition and performance tracking  
-- **Visualisation & Reporting:** Power BI, Plotly Dash, Excel, dashboard design, data storytelling and insight communication  
-- **Business & Stakeholder Skills:** translating business questions into analytical tasks, stakeholder communication, reporting, decision support, process improvement and workflow optimisation  
-- **Modelling & Evaluation:** regression and classification models, feature selection, AUC, precision-recall analysis and threshold tuning
+- **Data & Analytics:** SQL (data extraction, joins, aggregation), Python (pandas, NumPy) | Data cleaning, validation and exploratory analysis | KPI definition and performance tracking  
+- **Visualisation & Reporting:** Power BI, Plotly Dash, Excel | Dashboard design | Data storytelling and insight communication  
+- **Business & Stakeholder Skills:** Translating business questions into analytical tasks | Stakeholder communication and reporting | Decision support, process improvement and workflow optimisation  
+- **Modelling & Evaluation:** Regression and classification models | Feature selection and performance evaluation | AUC, precision-recall analysis and threshold tuning  
+- **Languages:** English | Chinese
 
 
 ## Featured Projects 📊
@@ -44,6 +45,7 @@ I am a **UK-based Data Analyst** with **1+ year of industry experience at Merck*
 **Built with:** Python, BeautifulSoup, requests, pandas  
 **Shows:** web scraping, HTML table extraction, data cleaning, validation, reproducible notebook workflow  
 **Outcome:** cleaned and structured awards dataset ready for downstream analysis.
+
 
 ## Current Focus 🧠
 

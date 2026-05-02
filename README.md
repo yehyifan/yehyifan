@@ -4,7 +4,6 @@
 
 I am a **UK-based Data Analyst** with **1+ year of industry experience at Merck**, where I turned audit and operational data into dashboards, reports and business insights. I recently completed an **MSc in Data Science and Analytics**, strengthening my skills in SQL, Python, machine learning and analytical problem-solving. My working style is best described as: **structured communicator, people-oriented but analytical, growth-driven learner**. My projects focus on **user behaviour, performance monitoring, dashboarding and predictive modelling**.
 
-I am a **UK-based Data Analyst** with **1+ year of industry experience at Merck**, where I turned audit and operational data into dashboards, reports and business insights. I recently completed an **MSc in Data Science and Analytics**, strengthening my skills in SQL, Python, machine learning and analytical problem-solving. My working style is best described as: **structured communicator, people-oriented analyst, growth-driven learner**. My projects focus on **user behaviour, performance monitoring, dashboarding and predictive modelling**.
 
 ## Technical Skills 🧰
 

@@ -46,13 +46,6 @@ I am a **UK-based Data Analyst** with **1+ year of industry experience at Merck*
 **Outcome:** cleaned and structured awards dataset ready for downstream analysis.
 
 
-## Current Focus 🧠
-
-- Strengthening SQL portfolio work around funnel, cohort and A/B test analysis
-- Improving project documentation with clearer business context and recommendations
-- Building projects that connect technical analysis with real business decisions
-
-
 ## Contact 📫
 
 **LinkedIn:** [linkedin.com/in/yi-fan-yeh-947100245](https://www.linkedin.com/in/yi-fan-yeh-947100245)  

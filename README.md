@@ -4,8 +4,9 @@
 
 I am a UK-based Data Analyst with 1+ year of industry experience at Merck, turning audit and operational data into dashboards, reports and insights for business decision-making. I recently completed an MSc in Data Science and Analytics, strengthening my skills in SQL, Python, machine learning and analytical problem-solving.
 
-- I bring a structured, people-oriented and growth-driven approach to analytics.
-- My projects focus on practical business questions: understanding user behaviour, monitoring performance, identifying patterns, and building dashboards or models that support better decisions.
+I bring a structured, people-oriented and growth-driven approach to analytics, making analysis clear, practical and useful for stakeholders.
+
+My projects focus on practical business questions across user behaviour, performance monitoring, pattern discovery, dashboards and predictive models.
 
 
 ## Technical Skills 🧰
